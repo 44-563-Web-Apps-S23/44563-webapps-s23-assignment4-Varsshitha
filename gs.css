@@ -1,0 +1,22 @@
+.speech {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    color: black;
+  }
+  .direction{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: black;
+  }
+ .direction:hover{
+  background-color: antiquewhite;
+   }
+    .ROSA{
+        color: palevioletred;
+        }
+        .FRAULINDEMANN{
+            color:blanchedalmond
+        }
+            .STRÜBEL{
+                color:brown
+            }

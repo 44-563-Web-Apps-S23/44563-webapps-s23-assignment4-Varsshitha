@@ -35,16 +35,22 @@ table,th,td{
   margin-left: 20px;
   margin-right: 20px;
 }
+tr:nth-child(3){
+  background-color: blanchedalmond;
+}
+tr:nth-child(even){
+  background-color:lightpink;
+}
 .ROSA:hover{
 background-color: steelblue;
 color: blueviolet;
-text-shadow: 2px 2px green;
+text-shadow: 2px 2px 3px green;
 border: aquamarine;
 }
 .FRAULINDEMANN:hover{
   background-color: steelblue;
   color: blueviolet;
-  text-shadow: 2px 2px green;
+  text-shadow: 2px 2px 3px green;
   border: aquamarine;
   }
 

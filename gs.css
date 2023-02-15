@@ -35,3 +35,18 @@ table,th,td{
   margin-left: 20px;
   margin-right: 20px;
 }
+.ROSA:hover{
+background-color: steelblue;
+color: blueviolet;
+text-shadow: 2px 2px green;
+border: aquamarine;
+}
+.FRAULINDEMANN:hover{
+  background-color: steelblue;
+  color: blueviolet;
+  text-shadow: 2px 2px green;
+  border: aquamarine;
+  }
+
+
+

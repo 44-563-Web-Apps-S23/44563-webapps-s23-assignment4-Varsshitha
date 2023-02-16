@@ -7,9 +7,11 @@
     font-family: 'Courier New', Courier, monospace;
     font-size: 25px;
     color: black;
+    background-color: aqua;
   }
 .direction:hover{
-  background-color: lightgreen;
+  color:lightcoral;
+  background-color: lawngreen;
    }
 .ROSA
   {
@@ -44,15 +46,35 @@ tr:nth-child(even){
 .ROSA:hover{
 background-color: steelblue;
 color: blueviolet;
-text-shadow: 2px 2px 3px green;
-border: aquamarine;
+text-shadow: 2px 2px 1px green;
+border: 1px solid aquamarine;
 }
 .FRAULINDEMANN:hover{
   background-color: steelblue;
   color: blueviolet;
-  text-shadow: 2px 2px 3px green;
-  border: aquamarine;
+  text-shadow: 2px 2px 1px green;
+  border: 1px solid aquamarine;
+  }
+  .STRÜBEL:hover{
+    background-color: steelblue;
+  color: blueviolet;
+  text-shadow: 2px 2px 1px green;
+  border:1px solid aquamarine;
+
   }
 
 
 
+ul.navbar-horizontal{
+  display:flex;
+   
+}
+ul li{
+  margin: 10px;
+  padding: 20px;
+  list-style: none;
+}
+li a{
+  text-decoration: none;
+  background-color: lightgreen;
+}
